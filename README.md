@@ -12,8 +12,11 @@ This application has as objetive to exercise the Polymorphism and heritage. In i
         if imported, the rite name, price and customn fee.
   
 ## Print
-        ![image](https://github.com/leonunes58/polymorphism-price-tags/assets/116965782/4ff9efbd-d939-44e8-ae03-83e341ce2b66)
 
+<div>
+      <img src="https://github.com/leonunes58/polymorphism-price-tags/assets/116965782/6f54e548-dbdf-4c88-94b3-84f29db9da5b">  
+</div>
+        
 ## Prerequisites
 
 Before running the application, ensure you have the following installed:
