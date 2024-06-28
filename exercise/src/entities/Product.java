@@ -24,4 +24,10 @@ public class Product {
     public void setPrice(double price) {
         this.price = price;
     }
+
+    public String priceTag() {
+        StringBuilder sb = new StringBuilder();
+        sb.append(getName()).append(" $").append(getPrice());
+        return sb.toString();
+    }
 }
