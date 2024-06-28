@@ -10,6 +10,9 @@ This application has as objetive to exercise the Polymorphism and heritage. In i
         if common, then write name and price;
         if used, the write name, price and manufacture date;
         if imported, the rite name, price and customn fee.
+  
+## Print
+        ![image](https://github.com/leonunes58/polymorphism-price-tags/assets/116965782/4ff9efbd-d939-44e8-ae03-83e341ce2b66)
 
 ## Prerequisites
 
